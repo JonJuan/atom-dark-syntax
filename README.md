@@ -1,3 +1,3 @@
 JDM Dark Syntax Theme
 
-Customized from Dark Atom base
+Atom editor syntax theme. Customized from Dark Atom base
